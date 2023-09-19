@@ -1,0 +1,29 @@
+{ucket": "flash-chat-b7e85.appspot.com"
+  },
+  "client": [
+    "project_info": {
+      "project_number": "473063805109",
+      "project_id": "flash-chat-b7e85",
+      "storage_b
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473063805109:android:39a9d0d610cc94d8ef6efc",
+        "android_client_info": {
+          "package_name": "com.sandesh.flashchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaP49ANL4If8jsJ-zsFtPQhO0eIMXP2TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
